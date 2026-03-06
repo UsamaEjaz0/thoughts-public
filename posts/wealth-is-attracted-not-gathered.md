@@ -1,5 +1,3 @@
-# Wealth Is Attracted, Not Gathered
-
 ## The smartest person in the room rarely wins
 I've observed something interesting about the wealthy people I know. Most of them are not the smartest people in the room. I've watched successful people make questionable analytical decisions and draw wrong conclusions from basic data. They aren't conventionally intelligent. Yet they're far more successful than people who are.
 
