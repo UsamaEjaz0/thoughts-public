@@ -15,6 +15,10 @@ Money spent on charity returns to you manifold. I can't prove this with a formul
 ## Cause and effect blur
 There's a concept in quantum physics that has always fascinated me. When two particles are entangled, observing the spin of one instantly determines the spin of the other, regardless of the distance between them. Faster than light. The cause and the effect are not sequential. They are connected in a way that defies our linear understanding of time.
 
+There's a similar idea in Norse myth. Odin foresaw that Loki would rebel. He saw the future and tried to prevent it. But here's the twist: it was Odin's prophecy itself that made Loki rebel. The moment Odin treated Loki as the future traitor, he set in motion the very betrayal he was trying to avoid. The effect became the cause. The future reached back and shaped the present.
+
+You see it in markets too. When Elon says Doge will go up, people buy. Doge goes up. His statement didn't predict the future. It created it. The effect was the cause.
+
 I'm no physicist. But this idea mirrors something I observe constantly in life. The future seems to shape the present just as much as the present shapes the future. Decisions I've made today were somehow set up by events that hadn't happened yet. It sounds irrational, but the pattern keeps showing up.
 
 ## Sensitivity to initial conditions
