@@ -1,15 +1,15 @@
 # Wealth Is Attracted, Not Gathered
 
-## The maths paradox
-I've observed something interesting about the wealthy people I know. Many of them are terrible at maths. I've watched successful people botch simple calculations and draw wrong conclusions from the numbers. They aren't conventionally smart. Yet they're far more successful than people who are.
+## The smartest person in the room rarely wins
+I've observed something interesting about the wealthy people I know. Most of them are not the smartest people in the room. I've watched successful people make questionable analytical decisions and draw wrong conclusions from basic data. They aren't conventionally intelligent. Yet they're far more successful than people who are.
 
 What they tend to have instead is charisma — an ability to make people feel at ease, to make decisions on instinct, to move fast without overthinking.
 
-When I heard Barbara Corcoran talk about how terrible she was at maths, it started connecting. Imagine if these people had been good at maths. They'd probably have been drawn into accountancy, playing with numbers. They may never have become what they are.
+When I heard Barbara Corcoran talk about how she was very bad at Maths, it started connecting. Imagine if these people had been the analytical type. They'd probably have been drawn into technical roles, optimizing spreadsheets. They may never have become what they are.
 
-I was always good at maths, and I still am. There was a naive period where I actually wished I wasn't — where I wrongly attributed being bad at maths to having more wealth. I see people making the same mistake, attributing wealth to single variables like education or IQ. Correlation does not always mean causation.
+I've always been the analytical type, and I still am. There was a naive period where I actually wished I wasn't — where I wrongly assumed that being less smart somehow led to more wealth. I see people making the same mistake, attributing wealth to single variables like education or IQ. Correlation does not always mean causation.
 
-But I don't shut the idea down entirely either. I like to think of everything in probabilities. These variables might play a role, or they might not. The more you know, the more you realize how little you actually know. Being good or bad at maths is not a reliable indicator of wealth. There are millions of variables at play. Perhaps someday we'll build a model that accounts for all of them and truly understands chaos — or even predicts it.
+But I don't shut the idea down entirely either. I like to think of everything in probabilities. These variables might play a role, or they might not. The more you know, the more you realize how little you actually know. Intelligence is not a reliable indicator of wealth. There are millions of variables at play. Perhaps someday we'll build a model that accounts for all of them and truly understands chaos — or even predicts it.
 
 ## Your own formula
 There is not one path to wealth but many. Everyone has to develop their own formula. We can extract lessons from those who've succeeded, but in the end, it's our own implementation that determines the outcome.
